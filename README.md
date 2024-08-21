@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rustam Rinatovich</h1>
 <h3 align="center">I am a frontend developer from Tashkent</h3>
 
-- 🔭 I’m currently working on [dodo pizza clone](sorry)
+- 🔭 I’m currently working on [Dodo pizza](sorry)
 
 - 🌱 I’m currently learning **Next.JS , Mobx**
 
